@@ -3,7 +3,7 @@
 Welcome to my profile.<br>
 I am an enthusiastic, spirited developer with 7+ years of experience in web development. I have implemented a number of applications and solutions using various technologies and programming languages, ensuring optimal functionality, quality, and reliability.
 
-My skills and experience:
+My skills and experience:<br>
 — advanced level of React/Redux, Node/Express as my most proficient skills<br>
 — well-versed in other JS frameworks like Next.js, Vue.js, etc<br>
 — pretty rich experience in both RDBMS and NoSQL databases(MySQL, PostgreSQL, MongoDB, etc)<br>
