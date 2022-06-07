@@ -16,7 +16,7 @@ My skills and experience:<br>
 — flexible working time across time zones<br>
 
 
-If you have any urgent, important, or tricky task, don't hesitate to contact me. You are always welcome. I will do my best to help you successfully tackle your crisis.<br>
+If you have any urgent, important, or tricky task, don't hesitate to <a href="mailto:wm111898@gmail.com" target="_blank">contact me</a>. You are always welcome. I will do my best to help you successfully tackle your crisis.<br>
 😄Cheers!
 
 <!--
