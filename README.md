@@ -19,8 +19,6 @@ My skills and experience:<br>
 If you have any urgent, important, or tricky task, don't hesitate to <a href="mailto:wm111898@gmail.com" target="_blank">contact me</a>. You are always welcome. I will do my best to help you successfully tackle your crisis.<br>
 😄Cheers!
 
-<a href="https://app.daily.dev/Clox"><img src="https://api.daily.dev/devcards/7e70796af5a74f889ac192f3400dfc87.png?r=4nu" width="400" alt="Lucas Wong's Dev Card"/></a>
-
 <!--
 **LucasWongC/lucaswongc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
