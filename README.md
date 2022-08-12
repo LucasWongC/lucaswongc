@@ -15,7 +15,6 @@
 	<a href="https://github.com/LucasWongC">
 		<img src="about-me.svg" width="800" height="auto" alt="Click to see the source">
 	</a>
-	<br>
 </div>
 
 ### **Contact Me**
