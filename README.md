@@ -12,9 +12,7 @@
 ### Hi there 👋 I'm Lucas Wong 🙂
 <div align="center">
 	<br>
-	<a href="https://github.com/LucasWongC">
-		<img src="about-me.svg" width="800" height="auto" alt="Click to see the source">
-	</a>
+  <img src="about-me.svg" width="800" height="auto" alt="Click to see the source">
 </div>
 
 ### **Contact Me**
