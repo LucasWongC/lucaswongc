@@ -70,6 +70,7 @@
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Binance](https://img.shields.io/badge/binance-F0B90B.svg?style=for-the-badge&logo=binance&logoColor=white)
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4.svg?style=for-the-badge&logo=OpenZeppelin&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/web3-F16822.svg?style=for-the-badge&logo=web3.js&logoColor=white)
 
 <br/>
 
