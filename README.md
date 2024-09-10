@@ -20,7 +20,10 @@
 <p align='center'>
   <a href="https://t.me/clox1118">
     <img src="https://img.shields.io/badge/telegram-26A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>
+  <a href="[https://t.me/clox1118](https://wa.me/12318215145)">
+    <img src="https://img.shields.io/badge/whatsapp-00A884.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
 ### GitHub Status 😎
