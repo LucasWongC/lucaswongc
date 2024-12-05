@@ -34,8 +34,6 @@
 <a class='Most-used-languages' href='https://github.com/LucasWongC'><img width="45%" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LucasWongC&layout=compact' />
 </div>
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasWongC&show_icons=true&theme=radical)](https://github.com/LucasWongC)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasWongC&layout=compact)](https://github.com/LucasWongC)  -->
 <br/><br/>
 
 ### My skill sets. 🧰
