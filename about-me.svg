@@ -102,9 +102,9 @@
       <article class='card'>
         <h2> About me! 💁‍♂️</h2>
         <p>😎: I’m a full stack web developer. ✌</p>
-        <p>😉: I am into blockchain technology. 🤗</p>
+<!--         <p>😉: I am into blockchain technology. 🤗</p> -->
         <p>🏠: I’m working from home 🌐</p>
-        <p>🖥️: Prefer to work on frontend development.👷‍♂️</p>
+<!--         <p>🖥️: Prefer to work on frontend development.👷‍♂️</p> -->
         <p>🤗: Enjoy coding more than enjoy itself 😀 </p>
         <p>🎉: Working on a project? Allow me to help, say hi 👋</p>
         <div id='top-bottom-dv'>
